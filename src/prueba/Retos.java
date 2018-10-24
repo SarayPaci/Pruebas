@@ -3,6 +3,7 @@ package prueba;
 public class Retos {
 
 	// ACTIVIDAD : Devolver el número menor de SIETE NÚMEROS
+	// Subir a Git y luego descargar
 		public static int calNumMenor(int x, int y, int z, int w) {
 			if (x < y)
 				if (x < z)
